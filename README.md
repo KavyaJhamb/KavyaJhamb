@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Kavya Jhamb
 
 🎓 Computer Science and Business Systems undergraduate  
-💡 Passionate about AI, Data Analytics, and Smart Grids  
+💡 Passionate about AI, Data Analytics, and Machine Learning   
 🌐 Based in Chennai, India  
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/kavyajhamb) | [Email](mailto:kavyajhamb@example.com)
 
